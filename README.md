@@ -36,3 +36,12 @@ In the event that there isn't enough of that item you will recieve a message tha
 
 ![Alt Text](request4.png)
 
+
+====================================================================================================================================
+
+<h1>Installation Instructions:</h1>
+
+1. Pull or download repository
+2. run npm install to install approriate node modules
+3. Follow instructions about to use program
+
