@@ -18,5 +18,21 @@ Next we are given a display of all the curreny items that Bamazon has
 ![Alt Text](products1.png)
 
 
-![Alt Text](products2.png)
-      
+![Alt Text](product2.png)
+
+
+After browsing there wares we confirm that we want to make a purchase and we select what item that we want via the item id number 
+
+![Alt Text](request2.png)
+
+
+
+After we select the item we want we select the quantity of the item, we are given the total of our purchases and double check that it is indeed the quantiy we want
+
+![Alt Text](request3.png)
+
+
+In the event that there isn't enough of that item you will recieve a message that there isn't enough in stock
+
+![Alt Text](request4.png)
+
