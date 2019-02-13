@@ -6,7 +6,7 @@ The Bamazon store front allows you to display the items we have in stock, you ca
 
 
 
-bamazon/node.png
+(bamazon/node.png)
       
 
       
